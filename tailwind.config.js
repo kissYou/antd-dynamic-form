@@ -11,10 +11,10 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     spacing,
-    extend: {}
+    extend: {},
   },
   variants: {
-    extend: {}
+    extend: {},
   },
-  plugins: []
+  plugins: [],
 };
